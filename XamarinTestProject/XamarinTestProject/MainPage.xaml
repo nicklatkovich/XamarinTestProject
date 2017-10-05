@@ -2,10 +2,38 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:XamarinTestProject"
-             x:Class="XamarinTestProject.MainPage">
+             x:Class="XamarinTestProject.MainPage"
+             BackgroundColor="{StaticResource Key=BackColor}">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Margin>
+            5, 5, 5, 5
+        </Grid.Margin>
+        <Image x:Name="MusicIcon"
+               VerticalOptions="Fill"
+               HorizontalOptions="Fill"
+               Grid.Column="0"
+               Grid.Row="2"/>
+        <Label x:Name="MusicLabel"
+               Text="Music"
+               HorizontalOptions="Center"
+               Grid.Column="0"
+               Grid.Row="3"
+               Style="{StaticResource Key=LabelStyle}"/>
+    </Grid>
 
 </ContentPage>

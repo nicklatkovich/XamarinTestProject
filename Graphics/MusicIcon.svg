@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="MusicIcon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-33.747813"
+     inkscape:cy="172.38982"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     borderlayer="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-path-mask="true"
+     objecttolerance="20"
+     gridtolerance="10000"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <path
+       style="fill:#701010;fill-opacity:1;stroke:none;stroke-width:2.16568732;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 256 0 A 255.99999 255.99999 0 0 0 170.42578 15.054688 L 170.42578 246.98047 A 63.999996 63.999996 0 0 1 106.42578 310.98047 A 63.999996 63.999996 0 0 1 42.425781 246.98047 A 63.999996 63.999996 0 0 1 106.42578 182.98047 A 63.999996 63.999996 0 0 1 125.61914 185.93945 L 125.61914 36.027344 A 255.99999 255.99999 0 0 0 0 256 A 255.99999 255.99999 0 0 0 256 512 A 255.99999 255.99999 0 0 0 512 256 A 255.99999 255.99999 0 0 0 424.32422 63.542969 L 380.53906 84.427734 L 380.53906 364.1582 A 63.999997 63.999997 0 0 1 316.53906 428.1582 A 63.999997 63.999997 0 0 1 252.53906 364.1582 A 63.999997 63.999997 0 0 1 316.53906 300.1582 A 63.999997 63.999997 0 0 1 337.75195 303.85547 L 337.75195 57.431641 L 384.67188 35.050781 A 255.99999 255.99999 0 0 0 256 0 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,161.53332)"
+       id="path815" />
+    <circle
+       r="67.73333"
+       cy="186.17738"
+       cx="-136.37381"
+       id="circle832"
+       style="fill:#701010;fill-opacity:1;stroke:none;stroke-width:0.57300478;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="16.933332"
+       cy="183.79076"
+       cx="-175.94849"
+       id="circle834"
+       style="fill:#161070;fill-opacity:1;stroke:none;stroke-width:0.34422621;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#161070;fill-opacity:1;stroke:none;stroke-width:0.34422621;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle836"
+       cx="-120.35642"
+       cy="214.79402"
+       r="16.933332" />
+    <rect
+       y="118.44404"
+       x="-170.87038"
+       height="65.346718"
+       width="11.855211"
+       id="rect838"
+       style="fill:#161070;fill-opacity:1;stroke:none;stroke-width:0.22791065;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="133.63942"
+       x="-114.74376"
+       height="81.154594"
+       width="11.320672"
+       id="rect840"
+       style="fill:#161070;fill-opacity:1;stroke:none;stroke-width:0.25995782;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(-115.50026)"
+       style="fill:#161070;fill-opacity:1;stroke:none;stroke-width:0.25995782;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect842"
+       width="11.320672"
+       height="81.154594"
+       x="-82.54245"
+       y="-161.09961" />
+  </g>
+</svg>

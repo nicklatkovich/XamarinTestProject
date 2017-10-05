@@ -9,6 +9,8 @@ namespace XamarinTestProject {
     public partial class MainPage : ContentPage {
         public MainPage( ) {
             InitializeComponent( );
+
+            MusicIcon.Source = ImageSource.FromResource("XamarinTestProject.Images.musicIcon.png");
         }
     }
 }
