@@ -4,9 +4,9 @@
              x:Class="XamarinTestProject.App">
 	<Application.Resources>
         <ResourceDictionary>
-            <Color x:Key="BackColor">#1E1E1E</Color>
+            <Color x:Key="BackColor">#1e1e1e</Color>
             <Style x:Key="LabelStyle" TargetType="Label">
-                <Setter Property="TextColor" Value="#C0C0C0"/>
+                <Setter Property="TextColor" Value="#c0c0c0"/>
                 <Setter Property="FontSize" Value="14"/>
             </Style>
             <Style x:Key="MainMenuLabelStyle" TargetType="Label" BasedOn="{StaticResource Key=LabelStyle}">

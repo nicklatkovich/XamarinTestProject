@@ -14,7 +14,6 @@
             <RowDefinition Height="1*"/>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="0.5*"/>
-            <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
@@ -75,6 +74,21 @@
                Grid.Column="1"
                Grid.Row="5"
                Style="{StaticResource Key=MainMenuLabelStyle}"/>
+        <Label x:Name="Time"
+               Text="20:05"
+               Style="{StaticResource Key=LabelStyle}"
+               HorizontalOptions="Center"
+               FontSize="Large"
+               Grid.Column="0"
+               Grid.Row="6"/>
+        <Label x:Name="Date"
+               Text="09.10.2017&#10;Monday"
+               Style="{StaticResource Key=LabelStyle}"
+               HorizontalOptions="Center"
+               HorizontalTextAlignment="Center"
+               FontSize="Medium"
+               Grid.Column="1"
+               Grid.Row="6"/>
     </Grid>
 
 </ContentPage>
