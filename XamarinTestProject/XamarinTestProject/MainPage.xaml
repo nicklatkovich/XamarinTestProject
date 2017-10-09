@@ -34,6 +34,28 @@
                Grid.Column="0"
                Grid.Row="3"
                Style="{StaticResource Key=LabelStyle}"/>
+        <Image x:Name="PhoneIcon"
+               VerticalOptions="Fill"
+               HorizontalOptions="Fill"
+               Grid.Column="0"
+               Grid.Row="4"/>
+        <Label x:Name="PhoneLabel"
+               Text="Call"
+               HorizontalOptions="Center"
+               Grid.Column="0"
+               Grid.Row="5"
+               Style="{StaticResource Key=LabelStyle}"/>
+        <Image x:Name="CameraIcon"
+               VerticalOptions="Fill"
+               HorizontalOptions="Fill"
+               Grid.Column="1"
+               Grid.Row="2"/>
+        <Label x:Name="CameraLabel"
+               Text="Camera"
+               HorizontalOptions="Center"
+               Grid.Column="1"
+               Grid.Row="3"
+               Style="{StaticResource Key=LabelStyle}"/>
     </Grid>
 
 </ContentPage>
