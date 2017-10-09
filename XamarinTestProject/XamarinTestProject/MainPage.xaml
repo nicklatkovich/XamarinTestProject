@@ -13,7 +13,7 @@
             <RowDefinition Height="auto"/>
             <RowDefinition Height="1*"/>
             <RowDefinition Height="auto"/>
-            <RowDefinition Height="1*"/>
+            <RowDefinition Height="0.5*"/>
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
@@ -23,9 +23,16 @@
         <Grid.Margin>
             5, 5, 5, 5
         </Grid.Margin>
+        <Image x:Name="Header"
+               VerticalOptions="Fill"
+               HorizontalOptions="Fill"
+               Grid.Column="0"
+               Grid.Row="0"
+               Grid.ColumnSpan="2"/>
         <Image x:Name="MusicIcon"
                VerticalOptions="Fill"
                HorizontalOptions="Fill"
+               Margin="0,20,0,0"
                Grid.Column="0"
                Grid.Row="2"/>
         <Label x:Name="MusicLabel"
@@ -33,7 +40,7 @@
                HorizontalOptions="Center"
                Grid.Column="0"
                Grid.Row="3"
-               Style="{StaticResource Key=LabelStyle}"/>
+               Style="{StaticResource Key=MainMenuLabelStyle}"/>
         <Image x:Name="PhoneIcon"
                VerticalOptions="Fill"
                HorizontalOptions="Fill"
@@ -44,10 +51,11 @@
                HorizontalOptions="Center"
                Grid.Column="0"
                Grid.Row="5"
-               Style="{StaticResource Key=LabelStyle}"/>
+               Style="{StaticResource Key=MainMenuLabelStyle}"/>
         <Image x:Name="CameraIcon"
                VerticalOptions="Fill"
                HorizontalOptions="Fill"
+               Margin="0,20,0,0"
                Grid.Column="1"
                Grid.Row="2"/>
         <Label x:Name="CameraLabel"
@@ -55,7 +63,7 @@
                HorizontalOptions="Center"
                Grid.Column="1"
                Grid.Row="3"
-               Style="{StaticResource Key=LabelStyle}"/>
+               Style="{StaticResource Key=MainMenuLabelStyle}"/>
         <Image x:Name="ExplorerIcon"
                VerticalOptions="Fill"
                HorizontalOptions="Fill"
@@ -66,7 +74,7 @@
                HorizontalOptions="Center"
                Grid.Column="1"
                Grid.Row="5"
-               Style="{StaticResource Key=LabelStyle}"/>
+               Style="{StaticResource Key=MainMenuLabelStyle}"/>
     </Grid>
 
 </ContentPage>
