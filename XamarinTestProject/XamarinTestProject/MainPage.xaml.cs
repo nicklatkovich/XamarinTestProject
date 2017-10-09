@@ -13,6 +13,7 @@ namespace XamarinTestProject {
             MusicIcon.Source = ImageSource.FromResource("XamarinTestProject.Images.musicIcon.png");
             PhoneIcon.Source = ImageSource.FromResource("XamarinTestProject.Images.phoneIcon.png");
             CameraIcon.Source = ImageSource.FromResource("XamarinTestProject.Images.cameraIcon.png");
+            ExplorerIcon.Source = ImageSource.FromResource("XamarinTestProject.Images.explorerIcon.png");
         }
     }
 }

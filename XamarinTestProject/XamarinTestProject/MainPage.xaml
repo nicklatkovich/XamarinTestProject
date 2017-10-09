@@ -56,6 +56,17 @@
                Grid.Column="1"
                Grid.Row="3"
                Style="{StaticResource Key=LabelStyle}"/>
+        <Image x:Name="ExplorerIcon"
+               VerticalOptions="Fill"
+               HorizontalOptions="Fill"
+               Grid.Column="1"
+               Grid.Row="4"/>
+        <Label x:Name="ExplorerLabel"
+               Text="Explorer"
+               HorizontalOptions="Center"
+               Grid.Column="1"
+               Grid.Row="5"
+               Style="{StaticResource Key=LabelStyle}"/>
     </Grid>
 
 </ContentPage>
